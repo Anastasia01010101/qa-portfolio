@@ -20,7 +20,7 @@
 
 **Статус прогона:** Passed
 
-**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/TC-1.png" width="400">
+**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/images/TC-1.png" width="400">
 
 ---
 
@@ -43,7 +43,7 @@
 
 **Статус прогона:** Passed
 
-**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/TC-2.png" width="500">
+**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/images/TC-2.png" width="500">
 
 ---
 
@@ -66,7 +66,7 @@
 
 **Статус прогона:** Passed
 
-**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/TC-3.png" width="400">
+**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/images/TC-3.png" width="400">
 
 ---
 
@@ -89,7 +89,7 @@
 
 **Статус прогона:** Passed
 
-**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/TC-4.png" width="400">
+**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/images/TC-4.png" width="400">
 
 ---
 
@@ -109,7 +109,7 @@
 
 **Статус прогона:** Passed
 
-**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/TC-5.png" width="400">
+**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/images/TC-5.png" width="400">
 
 ---
 
@@ -137,4 +137,4 @@
 
 **Статус прогона:** Passed
 
-**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/TC-1.png" width="500"> <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/TC-3.png" width="300">
+**Доказательства:** <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/images/TC-1.png" width="500"> <img src="https://raw.githubusercontent.com/Anastasia01010101/qa-portfolio/main/images/TC-3.png" width="300">
